@@ -1,4 +1,6 @@
 .env
+.rest
+todo.org
 
 # Logs
 logs
